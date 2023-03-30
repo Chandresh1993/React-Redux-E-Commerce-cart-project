@@ -1,0 +1,5 @@
+1- Redux is an open-source javascipt library for managing and centralizing application state. it is most commonly used with libraries such as react or angular for building user interfaces.
+
+- action is a plain javascipt object.
+
+- UseSelecter hook  state ko show karta hai.
